@@ -37,6 +37,8 @@ edit `.env` (if needed)
 $ docker-compose up
 ```
 
+![enter image description here](./screenshot.png)
+
 *it will take a while for spin up the stack, so please wait until it's boot up*
 
   
